@@ -3,7 +3,9 @@ Javascript version of haxe Polygonal
 
 ## Installation
 
-$ npm install js-polygonal --save
+```sh
+npm install js-polygonal --save
+```
 
 ## Usage
 
