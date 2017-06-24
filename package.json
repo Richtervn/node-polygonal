@@ -1,6 +1,6 @@
 {
   "name": "js-polygonal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Javascript version of haxe Polygonal",
   "main": "index.js",
   "scripts": {
