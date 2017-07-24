@@ -1,2 +1,2 @@
-var libs = require('./Polygonal').getLib();
+var libs = require('./Polygonal').Polygonal.getLib();
 module.exports = libs;
